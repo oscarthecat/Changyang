@@ -20,6 +20,7 @@ import android.widget.Toast;
  * 例如：我们重写了onJsAlert方法，那么当页面中需要弹出alert窗口时，便 会执行我们的代码，按照我们的Toast的形式提示用户。
  */
 public class HarlanWebChromeClient extends WebChromeClient {
+	
 	private static final String TAG = HarlanWebChromeClient.class
 			.getSimpleName();
 

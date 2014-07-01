@@ -19,6 +19,7 @@ public class HarlanWebViewClient extends WebViewClient {
 
 	private Activity mParent;
 
+
 	public HarlanWebViewClient(Activity parent) {
 		super();
 		this.mParent = parent;
