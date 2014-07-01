@@ -11,6 +11,11 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Button;
 
+/****
+	*@version 1.0
+	*
+	*@author gongzhen
+	**/
 @SuppressLint("SetJavaScriptEnabled")
 public class MainActivity extends Activity {
 
