@@ -15,6 +15,8 @@ import android.widget.Button;
 	*@version 1.0
 	*
 	*@author gongzhen
+	*
+	*@email oscar.gong@gmail.com
 	**/
 @SuppressLint("SetJavaScriptEnabled")
 public class MainActivity extends Activity {
